@@ -1,4 +1,4 @@
-{
+[{
   "name": "Comix",
   "id": "com.comix.manga",
   "baseUrl": "https://comix.to",
@@ -9,7 +9,7 @@
   "dateFormatLocale": "en",
   "isNsfw": false,
   "hasCloudflare": false,
-  "sourceCodeUrl": "https://raw.githubusercontent.com/NotSap/Source/refs/heads/main/Comix.js",
+  "sourceCodeUrl": "",
   "apiUrl": "",
   "version": "1.0.0",
   "isManga": true,
@@ -19,4 +19,4 @@
   "additionalParams": "",
   "sourceCodeLanguage": 0,  // 0 = JavaScript, 1 = Dart
   "notes": "Comix manga source"
-}
+}]
