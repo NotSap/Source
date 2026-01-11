@@ -1,4 +1,5 @@
-[{
+[
+  {
   "name": "Comix",
   "id": "com.comix.manga",
   "baseUrl": "https://comix.to",
@@ -19,4 +20,5 @@
   "additionalParams": "",
   "sourceCodeLanguage": 0,  // 0 = JavaScript, 1 = Dart
   "notes": "Comix manga source"
-}]
+}
+]
