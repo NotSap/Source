@@ -1,4 +1,5 @@
-[ { 
+[
+  {
     "name": "Comix",
     "id": 1234567890,
     "baseUrl": "https://comix.to",
@@ -9,7 +10,7 @@
     "dateFormatLocale": "",
     "isNsfw": false,
     "hasCloudflare": false,
-    "sourceCodeUrl": "https://raw.githubusercontent.com/NotSap/Source/refs/heads/main/Comix.js",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/NotSap/Source/refs/heads/main/comix.js",
     "apiUrl": "",
     "version": "0.1.0",
     "isManga": true,
@@ -19,4 +20,5 @@
     "additionalParams": "",
     "sourceCodeLanguage": 1,
     "notes": ""
-} ]
+  }
+]
